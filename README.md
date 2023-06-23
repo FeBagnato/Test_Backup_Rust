@@ -6,3 +6,5 @@ Projeto para a realização de testes do software Backup_Rust criado para ativid
 - Ignorar os arquivos que não devem ser adicionados ao backup
 - Salvar os arquivos e realizar a compressão
 
+## Integrantes do projeto
+- Felipe Bagnato
