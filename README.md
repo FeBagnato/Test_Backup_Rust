@@ -8,3 +8,4 @@ Projeto para a realização de testes do software Backup_Rust criado para ativid
 
 ## Integrantes do projeto
 - Felipe Bagnato
+- Beatriz Pessoa
